@@ -1,7 +1,7 @@
 # WATSONforCluedo-PROLOG
 
-in SWI-Prolog
-assistente per CLUEDO 1a edizione
+in SWI-Prolog\n
+assistente per CLUEDO 1a edizione\n
 autore: Antonio Norelli.
 
 ################### istruzioni ##############################################################
