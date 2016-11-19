@@ -91,3 +91,6 @@ vista(X,Carta) :-
 	vista(Y,Altra1),
 	vista(Z,Altra2).
 vista(gioc0,scarlett).
+vista(gioc0,corda).
+richiesta_non_soddisfatta(gioc0,scarlett,corda,cucina).
+richiesta_soddisfatta(gioc2,plum,piombo,ballo).
