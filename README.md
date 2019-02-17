@@ -1,20 +1,11 @@
 # WATSONforCluedo-PROLOG
 
-in SWI-Prolog
+Cluedo assistant in Python and SWI-Prolog 
 
-assistente per CLUEDO 1a edizione
+University project • 2016 - Logica e informatica - BSc excellence degree in Science and Technology, SSAS, III year
 
-autore: Antonio Norelli.
+## Instructions
 
+Run `CluedoProlog.py`, load the database `CluedoDatabase.pl` in SWI-Prolog, record the game through `CluedoProlog.py` and query the database in SWI-PROLOG at any time (e.g. "armasospetta(X).", "innocente(X).", ...).
 
-################### istruzioni ###################################################
-
-lanciare CluedoProlog.py
-
-caricare il database CluedoDatabase.pl in SWI-Prolog
-
-seguire lo svolgimento della partita in CluedoProlog.py
-
-interrogare il database in SWI-PROLOG (ex. "armasospetta(X).", "innocente(X).", ...)
-
---> usare "make." per aggiornare il database in SWI-PROLOG
+Use "make." to update the database in SWI-PROLOG
