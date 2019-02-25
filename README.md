@@ -2,6 +2,8 @@
 
 [Cluedo](https://en.wikipedia.org/wiki/Cluedo) assistant in Python and SWI-Prolog. (Italian version of Cluedo) 
 
+Final project of Logica e informatica, prof. Maurizio Lenzerini.
+
 University project • 2016 - Logica e informatica - BSc excellence degree in Science and Technology, SSAS, III year
 
 ## Instructions
