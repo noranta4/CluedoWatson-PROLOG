@@ -4,7 +4,7 @@
 
 Final project of Logica e informatica, prof. Maurizio Lenzerini.
 
-University project • 2016 - Logica e informatica - BSc excellence degree in Science and Technology, SSAS, III year
+University project • 2016 - Logica e informatica - BSc excellence degree in Science and Technology, Sapienza School for Advanced Studies (SSAS), III year
 
 ## Instructions
 
